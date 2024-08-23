@@ -15,7 +15,7 @@
 
 * [Bug_one](https://github.com/hexlet-rus/runit/issues/541)
 * [Bug_two](https://github.com/hexlet-rus/runit/issues/540)
-
+* [Bug_three](https://github.com/hexlet-rus/runit/issues/546)
 Предложил [улучшение функциональности](https://github.com/hexlet-rus/runit/issues/542).
 
 # Run IT
