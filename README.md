@@ -1,28 +1,22 @@
-# Участие в open-source проекте:
+# Участие в open-source проекте
 
-Протестировал проект Run IT по существующим тест-кейсам в программе Allure.
+### Протестировал проект [Run IT](https://runit.hexlet.ru)
+Провел тестирование по существующим тест-кейсам в программе Allure.
 
-### Составил новые тест-кейсы в программе Allure: 
+### Составил и актуализировал тест-кейсы
+Создал новые тест-кейсы и обновил старые в программе Allure. Ознакомиться с ними можно в [документе](https://github.com/ViktorSmiryagin/Test_Runit/blob/main/Test_cases.pdf)
 
-* [Примеры составленных тест-кейсов](https://github.com/ViktorSmiryagin/Test_Runit/blob/main/test_case.md)
+### Обсудил и внес поправки в существующие требования
+- [Требования (requirements.md) #544](https://github.com/hexlet-rus/runit/pull/544)
+- [Требования (requirements.yml) #543](https://github.com/hexlet-rus/runit/pull/543)
 
-### Обсудил и внес поправки в существующие требования:
-[requirements.md #544](https://github.com/hexlet-rus/runit/pull/544)
+### Обнаруженные дефекты
+- [When copying snippets several times in a row, the word "copy" in the title stops being fully visible. #541](https://github.com/hexlet-rus/runit/issues/541)
+- [There is no option to sign in using GitHub when creating a snippet as an unauthorized user. #540](https://github.com/hexlet-rus/runit/issues/540)
+- [Unable to change or set profile avatar despite having an authorized account. #546](https://github.com/hexlet-rus/runit/issues/546)
 
-[requirements.yml #543](https://github.com/hexlet-rus/runit/pull/543)
-
-**Исправил ошибки в уже написанных тест-кейсах.**
-
-### При тестировании были обнаружены дефекты:
- 
-
-* [Bug_one](https://github.com/hexlet-rus/runit/issues/541)
-* [Bug_two](https://github.com/hexlet-rus/runit/issues/540)
-* [Bug_three](https://github.com/hexlet-rus/runit/issues/546)
-Предложил [улучшение функциональности](https://github.com/hexlet-rus/runit/issues/542).
+### Предложение по улучшению функциональности
+- [Add numbering to copies or display the full name of the snippet when hovering over the snippet's name #542](https://github.com/hexlet-rus/runit/issues/542)
 
 # Run IT
 Среда для написания и исполнения кода. Ближайший аналог — сервис repl.it.
-
-
-
