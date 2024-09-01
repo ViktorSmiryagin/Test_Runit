@@ -15,6 +15,7 @@
 3. [Unable to change or set profile avatar despite having an authorized account. #546](https://github.com/hexlet-rus/runit/issues/546)
 4. [Symbols are difficult to see in the JavaScript snippet console when using the dark theme #547](https://github.com/hexlet-rus/runit/issues/547)
 5. [Company Logo on Website is Outdated Compared to Updated Logo on Twitter #548](https://github.com/hexlet-rus/runit/issues/548)
+6. [Snapshot Copy Confirmation Button Shows Russian Text in English Version of Site #549](https://github.com/hexlet-rus/runit/issues/549)
 ### Предложение по улучшению функциональности
 - [Add numbering to copies or display the full name of the snippet when hovering over the snippet's name #542](https://github.com/hexlet-rus/runit/issues/542)
 
